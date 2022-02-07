@@ -16,3 +16,11 @@
     padding:20px;
     background: #fff;
 }
+
+.makeRed{
+    background-color: red;
+}
+
+.makeBlue{
+    background-color: blue;
+}
